@@ -81,7 +81,7 @@ const projects = ref([
     title: 'Minha Plataforma de E-commerce',
     subtitle: 'Projeto faculdade',
     linkText: 'Ver no GitHub',
-    linkUrl: 'https://github.com/arthurdronov/simple-ecommerce',
+    linkUrl: 'https://github.com/arthurdronov/ecommerce-simple',
     date: '2023',
     description: [
       'Plataforma de e-commerce completa construída com Vue.js e um backend Node.js (API simulada).',
